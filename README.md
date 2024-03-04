@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nyadavx
-- 👀 I’m interested in Java, Golang, RustLang, Python, NodeJS, JavaScript, TypeScript, DevOps (Docker, Kubernetes, Terraform, Ansible).
+- 👀 I’m interested in Java, Golang, RustLang, Python, NodeJS, JavaScript, TypeScript, DevOps (Docker, Kubernetes, Terraform, Ansible), MySQL, Postgres, MongoDB, Cassandra.
 - 🌱 I’m currently learning RustLang.
-- 💞️ I’m looking to collaborate on Redis, Kafka, gRPC, Airflow, Spark, GraphQL, Data Engineering, Automation, Microservices and DevOps.
+- 💞️ I’m looking to collaborate on AWS, Azure, GCP, Redis, Kafka, gRPC, Airflow, Spark, GraphQL, Data Engineering, Automation, Microservices and DevOps.
 - 📫 How to reach me : On Mail and MSFT Teams - navneetx.yadav@intel.com
 - 😄 Pronouns: Navneet
 - ⚡ Fun fact: I love to play Chess, solving Rubik Cubes, reading books and exploring new places in free time. 
